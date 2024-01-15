@@ -171,6 +171,18 @@
     box-shadow: 5px 5px 10px #888888;
   }
 
+  .project-tile:hover {
+    background-image: none;
+  
+    .hover {
+      animation: hover-1 0.5s linear forwards;
+    }
+  
+    h3 {
+      animation: hover-2 0.2s linear forwards;
+    }
+  }
+
 #dino-game {
   background-image: url(https://www3.minijuegosgratis.com/v3/games/thumbnails/223278_1.jpg)
 }
@@ -215,18 +227,6 @@
   .hover {
     color: transparent;
     margin-top: -70%;
-  }
-  
-  .project-tile:hover {
-    background-image: none;
-  
-    .hover {
-      animation: hover-1 0.5s linear forwards;
-    }
-  
-    h3 {
-      animation: hover-2 0.2s linear forwards;
-    }
   }
   
   @keyframes hover-1 {
