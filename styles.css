@@ -171,27 +171,27 @@
     box-shadow: 5px 5px 10px #888888;
   }
 
-.project-tile #dino-game {
+#dino-game {
   background-image: url(https://www3.minijuegosgratis.com/v3/games/thumbnails/223278_1.jpg)
 }
 
-.project-tile #portfolio {
+#portfolio {
   background-image: url(https://media.discordapp.net/attachments/1067928129949147196/1195965833990651924/image.png?ex=65b5e8fa&is=65a373fa&hm=9603e6a5d69663a329a47d71d93d7536061bace475df37361410d5ab487b4171&=&format=webp&quality=lossless&width=667&height=537)
 }
   
-.project-tile #product-landing-page {
+#product-landing-page {
     background-image: url(https://cdn.discordapp.com/attachments/1067928129949147196/1193008348111568996/image.png?ex=65ab269b&is=6598b19b&hm=596de99f19361330402f80a3a20f15c8292a00d70d842dcd74f722dba360a167&)
   }
   
-.project-tile #technical-documentation-page {
+#technical-documentation-page {
     background-image: url(https://cdn.discordapp.com/attachments/1067928129949147196/1193008847284088832/image.png?ex=65ab2712&is=6598b212&hm=1dbc1d4cf34dc9855d71d772a226b8b69ccc879f5d8cf29a05a1f00f9325a316&);
   }
   
-.project-tile #tribute-page {
+#tribute-page {
     background-image: url(https://cdn.discordapp.com/attachments/1067928129949147196/1193008394106314792/image.png?ex=65ab26a6&is=6598b1a6&hm=492c2a1a206dc517913a6a7156851ff64325b2c7dc363068ac009d764233d79d&);
   }
   
-.project-tile #survey-form {
+#survey-form {
     background-image: url(https://cdn.discordapp.com/attachments/1067928129949147196/1193004643375124520/image.png?ex=65ab2327&is=6598ae27&hm=1a8d720bbe7bb857e4ddf0e9e17bccea5414afef63b3f59ec0d254cff2b178a4&);
   }
   
