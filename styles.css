@@ -237,6 +237,7 @@
           color:white;
           background-color: var(--accent-color);
           border-radius: 20px;
+          padding: 5px;
       }
   }
   
